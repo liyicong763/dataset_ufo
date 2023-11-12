@@ -1,2 +1,2 @@
-# dataset_ufo
-code to explain the different code files
+# dataset_ufo/code
+Web scraping code used to create the dataset.
