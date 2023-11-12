@@ -1,2 +1,4 @@
-# dataset_ufo
-archive folder is used to store in-process data that you want to retain but is not part of the finished dataset.
+# dataset_imdb/archive
+### The archive folder contains: 
+ - **data that was used in the making of the final dataset**
+   - *smaller, individual files that were later integrated either horizontally or vertically*
